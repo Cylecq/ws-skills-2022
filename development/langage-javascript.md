@@ -6,17 +6,20 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
-(e) => mc2;
+// Fonction sum
+const sum = (a, b) => {
+  return a + b
+}
 ```
 
 ### Utilisation dans un projet ❌ / ✔️
@@ -39,8 +42,12 @@ Description :
 
 ### Titre
 
-- lien
-- description
+**mdn web docs_**
+
+https://developer.mozilla.org/fr/docs/Learn/JavaScript
+*La base*
+
+
 
 ## 🚧 Je franchis les obstacles
 
